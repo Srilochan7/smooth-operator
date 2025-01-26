@@ -1,1 +1,5 @@
-![Smooth Operator]([https://media.giphy.com/media/E4LWtyQ9KiToA/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW55ZWo5OW52bDFyMzFoZGp5YWJuMWtuajNldHg2MXdhc2g2cGwzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E4LWtyQ9KiToA/giphy.gif))
+![leonardo dicaprio rap GIF](https://github.com/user-attachments/assets/af9e3598-cb3c-4405-a4a1-16abb6ba3c5f)
+
+Smooth Operator
+
+SmoothOperator is a fun little project of mine that transforms crush descriptions into personalized, witty pickup lines with a twist. Built with React, Vite, and the Gemini API, it’s all about having fun! Feel free to try it out, and if you're interested, contributions are welcome!
