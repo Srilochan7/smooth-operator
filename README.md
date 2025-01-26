@@ -1,3 +1,1 @@
-[<iframe src="https://giphy.com/embed/E4LWtyQ9KiToA" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-great-gatsby-jay-E4LWtyQ9KiToA">via GIPHY</a></p>
-](https://media.giphy.com/media/E4LWtyQ9KiToA/giphy.gif
-)
+![Smooth Operator]([https://media.giphy.com/media/E4LWtyQ9KiToA/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW55ZWo5OW52bDFyMzFoZGp5YWJuMWtuajNldHg2MXdhc2g2cGwzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E4LWtyQ9KiToA/giphy.gif))
