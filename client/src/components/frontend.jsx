@@ -4,21 +4,7 @@ const App = () => {
   const [inputText, setInputText] = useState('');
   
   return (
-    <div className="min-h-screen w-full bg-black flex flex-col items-center justify-start p-60">
-      {/* Title Section */}
-      <div className="w-full max-w-5xl">
-        <h1 className="text-[#c1ff72] text-6xl md:text-7xl font-bold mb-6">
-          Smooth Operator
-        </h1>
-        
-        {/* Subtitle */}
-        <p className="text-gray-300 text-lg mb-12 items-center">
-        Smooth-Operator is your AI wingman, turning crush descriptions into witty, personalized pickup lines. 
-          <span className="mx-2">👾</span> 
-          Funny, flirty, or romantic—leave the perfect impression every time! 
-          <span className="mx-2">💯</span>
-        </p>
-      </div>
+    <div>
       
       {/* Main Content */}
       <div className="w-full max-w-5xl">
