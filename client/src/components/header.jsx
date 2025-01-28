@@ -14,12 +14,10 @@ const Header = () => {
 
       <div className="flex flex-col gap-5 justify-center items-center px-5 md:px-10">
         <h1 className="text-4xl md:text-6xl font-bricolage font-semibold text-neon text-center">
-          Brain-Rot Language Converter
+          Smooth Operator
         </h1>
         <p className="text-lg md:text-xl font-popins text-center text-zinc-300">
-          Turn your text into trendy Gen Z slang with a click. Add memes,
-          slang, and cool vibes instantly!👀 Stay on top of the latest trends
-          and speak like a pro! 💯
+        Your Personal AI Wingman, Crafting the Perfect Pickup Line to Help You Impress Your Crush Every Time! 💬💖
         </p>
       </div>
     </div>
