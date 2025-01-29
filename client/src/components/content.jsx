@@ -16,7 +16,6 @@ const API_KEYS = [
   import.meta.env.VITE_GEMINI_API_KEY2,
   import.meta.env.VITE_GEMINI_API_KEY3,
 ];
-  console.log('API Keys:', API_KEYS[0]);
 
   const prompt = "Create a single clever pickup line that directly references the specific traits, interests, or features mentioned in the description. Use wordplay or puns related to their hobbies, characteristics, or what they love. Keep it short, playful, and add 2-3 relevant emojis. Focus only on the details provided in the description. Response should be just the pickup line without any explanations or extra text.";
 
