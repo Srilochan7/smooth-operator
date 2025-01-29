@@ -101,7 +101,9 @@ const API_KEYS = [
     setLoading(false);
   };
   return (
-    <div className="min-h-screen flex items-center justify-center bg-[#0f1015] p-10">
+    <div className="h-auto flex items-center justify-center bg-[#0f1015] p-4">
+
+
       <div className="w-full max-w-3xl mx-auto">
         {/* Title */}
         <h1 className="text-2xl md:text-3xl text-[#c1ff72] font-bold text-center mb-5">
@@ -114,7 +116,7 @@ const API_KEYS = [
           <textarea
             value={inputText}
             onChange={(e) => setInputText(e.target.value)}
-            placeholder="Describe your crush (she's a 20, loves football....)"
+            placeholder="Describe your crush (she's a 10, loves football....)"
             className="w-full h-40 md:h-48 bg-[#1a1b26] text-white rounded-lg p-6 border border-purple-500 focus:outline-none focus:ring-2 focus:ring-purple-500 resize-none text-lg transition-all"
           />
           

@@ -12,8 +12,8 @@ const Header = () => {
         />
       </div> */}
 
-      <div className="flex flex-col gap-5 justify-center items-center px-5 md:px-10 bg-[#0f1015]">
-        <h1 className="text-4xl md:text-6xl font-bricolage font-semibold text-neon text-center">
+      <div className="flex flex-col gap-10 justify-center items-center px-5 md:px-10 bg-[#0f1015]">
+        <h1 className="text-4xl md:text-6xl font-bricolage font-semibold text-white text-center">
           Smooth Operator
         </h1>
         <p className="text-lg md:text-xl font-popins text-center text-zinc-300">
